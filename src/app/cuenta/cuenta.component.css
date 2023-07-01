@@ -1,0 +1,24 @@
+.contenedor{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.numeral{
+    font-size: 23px;
+    color: darkturquoise;
+}
+p{
+    margin: 0 0 5px;
+    font-size: 13px;
+}
+
+.numero_cuenta{
+    display: block;
+    height: 30px;
+}
